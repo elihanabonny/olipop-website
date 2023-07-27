@@ -1,0 +1,14 @@
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width">
+        <title>My Olipop</title>
+    </head>
+    <body>
+        <h1>MY OLIPOP</h1>
+        <p> This is my olipop page where I share different Olipop flavors including my favorite ones!</p>
+            <div>
+                <p>These are my personal preferences and the ranking is made according to my own tastes.</p>
+            </div>
+    </body>
+</html>
